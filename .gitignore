@@ -13,7 +13,7 @@ src/test_fuckcoin
 
 # Compilation and Qt preprocessor part
 *.qm
-Makefile
+# Makefile
 fuckcoin-qt
 Fuckcoin-Qt.app
 
